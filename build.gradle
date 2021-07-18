@@ -16,7 +16,7 @@ jar {
     version = null
     manifest {
         attributes(
-                'Main-Class': 'com.meeting.schedulars.Meeting'
+                'Main-Class': 'com.meeting.schedulars.MakeSpace'
         )
     }
 }
