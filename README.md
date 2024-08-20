@@ -1,6 +1,6 @@
 # Make Space
 
-This App takes input and gives the best possible rooms for meeting
+This App takes input and gives the best possible rooms for meeting. Its a standalone app
 
 ## Requirements
 1. Java 11+
